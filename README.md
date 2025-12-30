@@ -9,11 +9,11 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafalRodriguess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafalRodriguess&show_icons=true&theme=dark)
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RafalRodriguess&theme=dark"/>
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=RafalRodriguess&theme=dark)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafalRodriguess&layout=compact&langs_count=8&theme=dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafalRodriguess&layout=compact&theme=dark)
 
 </div>
 
