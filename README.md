@@ -7,15 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-rodrigues-88a976226/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rafarodrigues.dev)
 
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafalRodriguess&show_icons=true&theme=dark)
+[![Rafal's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafalRodriguess)](https://github.com/RafalRodriguess)
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=RafalRodriguess&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafalRodriguess&layout=compact&theme=dark)
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafalRodriguess)](https://github.com/RafalRodriguess)
 
 ### Skills:
 
